@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eshanjain04
-- 👀 I’m interested in Java Coding and Software development
-- 🌱 I’m currently learning Competetive coding.
+- 👀 I'm full stack software developer enthusiats currently upskilling myself in MERN Stack
+- 🌱 I’m currently learning Competetive coding as well.
 - 💞️ I’m looking to collaborate on Various software and app development projects 
 
 
