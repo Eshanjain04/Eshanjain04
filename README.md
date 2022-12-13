@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eshanjain04
-- 👀 I'm full stack software developer enthusiats currently upskilling myself in MERN Stack
+- 👀 I'm full stack software developer currently Working in a Fintech Startup as Angular Developer
 - 🌱 I’m currently learning Competetive coding as well.
 - 💞️ I’m looking to collaborate on Various software and app development projects 
 - Please browse around and checkout some of my projects.
